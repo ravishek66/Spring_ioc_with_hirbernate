@@ -1,0 +1,7 @@
+echo "# Spring_ioc_with_hirbernate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ravishek66/Spring_ioc_with_hirbernate.git
+git push -u origin main
